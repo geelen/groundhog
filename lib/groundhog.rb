@@ -7,6 +7,8 @@
 # 3. Press ^D to end it all wake up in your comfy bed.
 # 4. Quickly press ^D ^C to get out of Punxsutawney and back to your normal life.
 
+require 'pry'
+
 class Groundhog
   def self.day
     puts "\nOkay, campers, rise and shine, and don't forget your booties 'cause it's cooooold out there today!"
