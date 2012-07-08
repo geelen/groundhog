@@ -4,7 +4,7 @@ $:.unshift(lib) unless $:.include?(lib)
 
 Gem::Specification.new do |s|
   s.name        = "groundhog"
-  s.version     = "0.1.0"
+  s.version     = "0.1.1"
   s.author      = "Glen Maddern"
   s.email       = "glenmaddern@gmail.com"
   s.summary     = "Keep repeating the same day, er transaction."
